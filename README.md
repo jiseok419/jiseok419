@@ -1,5 +1,7 @@
 <div align="center">
   
+![header](https://raw.githubusercontent.com/jiseok419/jiseok419/main/Nametag.svg)
+
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jiseok419&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
  ### 🐣 Ji Seok 🐥 
