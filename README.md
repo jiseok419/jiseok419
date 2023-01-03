@@ -13,7 +13,8 @@
  ---
  
  <br/><br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok419&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jiseok419&theme=tokyonight&show_icons=true" width="42%" />
+
   
   ### My Stacks
   [![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white)](https://www.oracle.com/java/) [![C](https://img.shields.io/badge/C-524321?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_)  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/) [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
