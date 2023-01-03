@@ -14,7 +14,7 @@
  ---
  
  <br/><br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok419&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok419&theme=dracula&layout=compact&langs_count=10"/>
 
 
   
