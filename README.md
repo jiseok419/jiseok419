@@ -1,7 +1,8 @@
 <div align="center">
  
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jiseok419&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+![jiseok419's github stats](https://github-readme-stats.vercel.app/api?username=jiseok419&show_icons=true)
+
   
  ### 🐣 Ji Seok 🐥 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiseok419%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a> <a href="https://solved.ac/pyosik0419"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pyosik0419"/></a>
@@ -13,7 +14,7 @@
  ---
  
  <br/><br>
-<img src="https://raw.githubusercontent.com/jiseok/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+[![jiseok419's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok419&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
 
   
   ### My Stacks
