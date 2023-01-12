@@ -5,7 +5,7 @@
 
   
  ### 🐣 Ji Seok 🐥 
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiseok419%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a> <a href="https://solved.ac/pyosik0419"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pyosik0419"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiseok419%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a> <a href="https://solved.ac/profile/pyosik0419"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pyosik0419"/></a>
   ---
   
   <a href="https://www.notion.so/Developer-8eebe7e9b93b4217ade1616f2474b6ce"><img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
