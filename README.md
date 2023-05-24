@@ -14,7 +14,7 @@
  ---
  
  <br/><br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok419&theme=dracula&layout=compact&langs_count=10"/>
+  <a href="https://github.com/jiseok419"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok419&layout=compact&theme=nord&hide_border=true" /></a> 
 
 
   
