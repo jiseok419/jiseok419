@@ -5,7 +5,7 @@
 
   
  ### 🐣 Ji Seok 🐥 
-  <p>dgsw 7th</p>>
+  <p>dgsw 7th</p>
   ---
   
  <br/><br><br/><br>
