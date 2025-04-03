@@ -5,8 +5,6 @@
 
   
  ### 🐣 Ji Seok 🐥 
- <p>dgsw 7th</p>
- </a> <a href="https://solved.ac/pyosik0419"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pyosik0419"/></a> 
   
  <br/><br><br/><br>
  
